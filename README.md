@@ -55,13 +55,13 @@ The food truck program allows the user to rate up to five food trucks. It will a
 
 
 <p>
-The food truck program will first prompt the user to enter the information of the first food truck such as the name, food type, and their rating for the food truck. The program will then give the user the option to enter another food truck or quit. If the user selects quit or provides five food trucks the program will then take the user to a menu that allows then to pick what they would like to do with the information they provided.
+The food truck program will first prompt the user to enter the information of the first food truck such as the name, food type, and their rating for the food truck. The program will then give the user the option to enter another food truck or quit. If the user selects quit or provides five food trucks the program will then take the user to a menu that allows them to pick what they would like to do with the information they provided.
 </P>
 <ol>
 
 
 <li>
-The next thing the program will do is ask the user to choose from a list. The list was created using a switch that contains while loops, if and else if statements, as well as for loops. The conditions and loops used within the switch ensure that the user cannot break the program and will allow the user to select multiple options list until the user is ready to quit. 
+The next thing the program will do is ask the user to choose from a list. The list was created using a switch that contains while loops, if and else if statements, as well as for loops. The conditions and loops used within the switch ensure that the user cannot break the program and will allow the user to select multiple options from the list until the user is ready to quit. 
 
 
 
@@ -75,7 +75,7 @@ Once the user selects quit, the food truck program is over.
 
 ## What I Learned
 <p>
-This project helped me to gain a better understanding of for loops and the logic I placed within them. It was also great to construct another project completely from scratch. This is helping me to understand how to write code. Passing objects was not something I felt confident doing. This project helped me to understand passing objects a bit more. 
+This project helped me to gain a better understanding of for loops and the logic I placed within them. It was also great to construct another project completely from scratch. This is helping me to understand how to write code. This homework assignment also forced me to create and pass objects. Passing objects was not something I felt confident doing. This project helped me to understand how to pass objects a bit more. 
 </p>
 
 
